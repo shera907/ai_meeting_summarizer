@@ -9,6 +9,16 @@
 
 ---
 
+## 🏗️ System Architecture
+
+<p align="center">
+  <a href="docs/system-architecture.png">
+    <img src="docs/system-architecture.png" alt="AI Meeting Summarizer System Architecture" width="900"/>
+  </a>
+</p>
+
+---
+
 ## ✨ Features
 
 ### Core Capabilities
@@ -369,4 +379,4 @@ If this project helped you, please give it a ⭐!
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Sharayu Borkar**

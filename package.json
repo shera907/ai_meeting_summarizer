@@ -4,8 +4,8 @@
   "description": "AI-powered meeting summarizer with action item tracking",
   "main": "electron/main.js",
   "scripts": {
-    "start": "concurrently \"npm run start:backend\" \"npm run start:electron\"",
-    "start:backend": "venv\\Scripts\\python.exe backend/app.py",
+    "start": "node start.js",
+    "start:backend": "venv\\Scripts\\python.exe backend\\app.py",
     "start:electron": "electron .",
     "build": "electron-builder"
   },
@@ -24,9 +24,10 @@
     "socket.io-client": "^4.6.1"
   },
   "devDependencies": {
-    "electron": "^28.2.0",
-    "electron-builder": "^24.9.1",
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "electron": "^40.6.1",
+    "electron-builder": "^26.8.1",
+    "wait-on": "^9.0.3"
   },
   "build": {
     "appId": "com.aimeetingsummarizer.app",
@@ -50,4 +51,3 @@
     }
   }
 }
-
