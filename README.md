@@ -44,16 +44,31 @@
 
 ---
 
-## 🎬 Demo
+## 🎬 Demo Screenshots
 
-<!-- Add screenshots here -->
-```
-screenshots/
-├── main-view.png
-├── recording-view.png
-├── live-transcription.png
-└── meeting-details.png
-```
+<p align="center">
+  <a href="docs/main-view.png">
+    <img src="docs/main-view.png" alt="Main View" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="docs/recording-view.png">
+    <img src="docs/recording-view.png" alt="Recording View" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="docs/live-transcription.png">
+    <img src="docs/live-transcription.png" alt="live-transcription.png" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="docs/meeting-details.png">
+    <img src="docs/meeting-details.png" alt="meeting-details.png" width="900"/>
+  </a>
+</p>
 
 ---
 
@@ -350,12 +365,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Deepgram** - For excellent speech-to-text API
@@ -376,6 +385,12 @@ For issues, questions, or suggestions:
 ## 🌟 Show Your Support
 
 If this project helped you, please give it a ⭐!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
